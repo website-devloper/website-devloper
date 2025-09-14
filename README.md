@@ -32,8 +32,7 @@ const aboutMe = {
 console.log("Hey there! Thanks for visiting my profile 😄");
 ```
 
-
-### 🛠️ Skills & Technologies
+## 🛠️   <code style="color:#00FF00; font-size: 40px;">Skills & Technologies</code>
 
 ```javascript
 const techStack = {

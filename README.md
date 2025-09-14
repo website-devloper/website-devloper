@@ -1,4 +1,8 @@
-<!-- Banner / Typing Animation -->
+<!-- Header Banner with GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Fatima Zahra (MenhCoding)</h1>
 <h3 align="center">💻 Software Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
 

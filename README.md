@@ -8,7 +8,7 @@
 
 <!-- Name in Coding Style -->
 <h1 align="center">
-  <code style="color:#00FFCC; font-size: 40px;">FatimaZahra.dev)</code>
+  <code style="color:#00FF00; font-size: 40px;">FatimaZahra.dev</code>
 </h1>
 
 <p align="center">

@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://github.com/website-devloper/website-devloper/blob/3c68b0d7d34b0a3efa50081ce3ad39c60013d5ea/coder%20girl%20banner.jpeg" width="40%">
 
+</p>
+
     <img src="https://github.com/website-devloper/website-devloper/blob/3c68b0d7d34b0a3efa50081ce3ad39c60013d5ea/keep%20coding%20banner.jpeg" width="40%">
 
-</p>
 
 <h1 align="center">Hi 👋, I'm Fatima Zahra (MenhCoding)</h1>
 <h3 align="center">💻 Software Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>

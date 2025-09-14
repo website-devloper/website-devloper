@@ -44,7 +44,7 @@ const techStack = {
   tools: ["Git", "GitHub", "VS Code", "Linux", "Figma"]
 };
 ```
-<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br/> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,wordpress" /> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> </p>
+<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br/> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,wordpress" /> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/> </p>
 
 ---
 

@@ -33,7 +33,7 @@ const aboutMe = {
 
 console.log("Hey there! Thanks for visiting my profile 👋");
 
----```
+
 
 ### 🛠️ Skills & Technologies
 

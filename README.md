@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Banner / Typing Animation -->
+<h1 align="center">Hi 👋, I'm Fatima Zahra (MenhCoding)</h1>
+<h3 align="center">💻 Software Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
 
-<!--
-**website-devloper/website-devloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;6%2B+Years+of+Coding+Experience;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🔭 Currently working on **Web Development & UI/UX Projects**  
+- 🌱 Learning **Backend & Cloud Technologies**  
+- 💡 Love creating **clean, functional, and creative apps**  
+- 🎯 Goal: **Deliver real value with code & design**  
+- ⚡ Fun fact: I drink code ☕ faster than coffee  
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python" />
+  <br/>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,wordpress,tailwind,bootstrap" />
+  <br/>
+  <!-- Databases & Others -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,figma" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🌐 [Accounting Website](https://github.com/yourusername/accounting-website)  
+  *Custom website for financial experts with modern UI/UX design.*  
+
+- 📊 [Finance App](https://github.com/yourusername/finance-app)  
+  *Track expenses and income with secure authentication.*  
+
+- 🎨 [Portfolio Website](https://github.com/yourusername/portfolio)  
+  *Showcasing my skills and works with a sleek design.*  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ From [MenhCoding](https://github.com/yourusername)

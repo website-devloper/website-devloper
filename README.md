@@ -12,9 +12,7 @@
 </h1>
 
 <p align="center">
-  <code style="color:#C678DD; font-size: 18px;">
-    Software Developer | Web Enthusiast | Lifelong Learner
-  </code>
+  <code style="color:#C678DD; font-size: 18px;">Software Developer | Web Enthusiast | Lifelong Learner</code>
 </p>
 ---
 

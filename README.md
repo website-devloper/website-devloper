@@ -14,24 +14,22 @@
 <p align="center">
   <code style="color:#C678DD; font-size: 18px;">Software Developer | Web Enthusiast | Lifelong Learner</code>
 </p>
----
 
 ## 💻  <code style="color:#00FF00; font-size: 40px;">About Me</code>
 
 ```javascript
 const aboutMe = {
   name: "Fatima Zahra",
-  aka: "MenhCoding",
   age: 22,
   role: "Software Engineer",
-  passion: "Programming ❤️",
-  hobbies: ["Coding 💻", "Debugging 🐞", "Reading 📚", "Exercising 🏋️‍♀️"],
+  passion: "Programming",
+  hobbies: ["Coding", "Debugging", "Reading", "Exercising"],
   specialPower: "Converting coffee into clean code ☕➡️💻",
-  currentlyLearning: "Backend, Cloud & New Tech 🌐",
-  mission: "Keep building, keep improving, keep smiling 😄"
+  currentlyLearning: "Cloud & New Tech",
+  mission: "Keep building, keep improving, keep smiling "
 };
 
-console.log("Hey there! Thanks for visiting my profile 👋");
+console.log("Hey there! Thanks for visiting my profile 😄");
 ```
 
 

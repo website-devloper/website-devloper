@@ -47,15 +47,39 @@ const techStack = {
 
 ---
 
-### 🚀 Featured Projects
-- 🌐 [Accounting Website](https://github.com/yourusername/accounting-website)  
-  *Custom website for financial experts with modern UI/UX design.*  
+## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
+---
 
-- 📊 [Finance App](https://github.com/yourusername/finance-app)  
-  *Track expenses and income with secure authentication.*  
+### 🏆 Portfolio Website
+A sleek personal portfolio to showcase my projects, skills, and experience.  
+🔗 [Live Demo](https://yourusername.github.io/portfolio) | 🔗 [GitHub Repo](https://github.com/yourusername/portfolio)  
+🛠 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- 🎨 [Portfolio Website](https://github.com/yourusername/portfolio)  
-  *Showcasing my skills and works with a sleek design.*  
+---
+
+### 📊 Finance Tracker
+Web application to track personal finances, visualize expenses, and plan budgets effectively.  
+🔗 [GitHub Repo](https://github.com/yourusername/finance-tracker)  
+🛠 **Tech Stack:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### 🌐 Web Blog Platform
+Full-stack blog platform with authentication, CRUD operations, and responsive design.  
+🔗 [GitHub Repo](https://github.com/yourusername/web-blog-platform)  
+🛠 **Tech Stack:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ---
 

@@ -48,9 +48,8 @@ const techStack = {
 ---
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
----
 
-### 🏆 Portfolio Website
+🏆 **Portfolio Website**
 A sleek personal portfolio to showcase my projects, skills, and experience.  
 🔗 [Live Demo](https://yourusername.github.io/portfolio) | 🔗 [GitHub Repo](https://github.com/yourusername/portfolio)  
 🛠 **Tech Stack:**  

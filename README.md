@@ -16,7 +16,7 @@
 </p>
 ---
 
-## 👩‍💻 About Me
+## 💻  <code style="color:#00FF00; font-size: 40px;">About Me</code>
 
 ```javascript
 const aboutMe = {

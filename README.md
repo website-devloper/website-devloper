@@ -16,12 +16,22 @@
 </p>
 ---
 
-### 👩‍💻 About Me
-- 🔭 Currently working on **Web Development & UI/UX Projects**  
-- 🌱 Learning **Backend & Cloud Technologies**  
-- 💡 Love creating **clean, functional, and creative apps**  
-- 🎯 Goal: **Deliver real value with code & design**  
-- ⚡ Fun fact: I drink code ☕ faster than coffee  
+## 👩‍💻 About Me
+
+```javascript
+const aboutMe = {
+  name: "Fatima Zahra",
+  aka: "MenhCoding",
+  age: 22,
+  role: "Software Engineer",
+  passion: "Programming ❤️",
+  hobbies: ["Coding 💻", "Debugging 🐞", "Reading 📚", "Exercising 🏋️‍♀️"],
+  specialPower: "Converting coffee into clean code ☕➡️💻",
+  currentlyLearning: "Backend, Cloud & New Tech 🌐",
+  mission: "Keep building, keep improving, keep smiling 😄"
+};
+
+console.log("Hey there! Thanks for visiting my profile 👋");
 
 ---
 

@@ -1,7 +1,7 @@
 <!-- Header Banner with GIF -->
 <p align="center">
 <!-- <img src="https://github.com/website-devloper/website-devloper/blob/3c68b0d7d34b0a3efa50081ce3ad39c60013d5ea/coder%20girl%20banner.jpeg" width="40%"> -->
-<img src="https://github.com/website-devloper/website-devloper/blob/65496c34afd366353fcd8a93b0babc1152a08b30/keepcodingbanner.jpeg" width="100px"> 
+<img src="https://github.com/website-devloper/website-devloper/blob/65496c34afd366353fcd8a93b0babc1152a08b30/keepcodingbanner.jpeg" width="60%"> 
 </p>
 
 

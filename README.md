@@ -6,12 +6,18 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Fatima Zahra (MenhCoding)</h1>
-<h3 align="center">💻 Software Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
+<!-- Name in Coding Style -->
+<h1 align="center">
+  <code style="color:#00FFCC; font-size: 40px;">FatimaZahra.dev)</code>
+</h1>
 
+<!-- Mission / Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;6%2B+Years+of+Coding+Experience;Always+Learning+%26+Sharing+Knowledge" alt="Typing Animation" />
+  <code style="color:#FFD700; font-size: 18px;">
+    Software Developer | Web Enthusiast | Lifelong Learner
+  </code>
 </p>
+
 
 ---
 

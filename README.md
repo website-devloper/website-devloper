@@ -35,7 +35,6 @@ console.log("Hey there! Thanks for visiting my profile 😄");
 
 ### 🛠️ Skills & Technologies
 
-
 ```javascript
 const techStack = {
   languages: ["HTML", "CSS", "JavaScript", "PHP", "Java", "Python"],
@@ -44,7 +43,8 @@ const techStack = {
   databases: ["MySQL", "MongoDB"],
   tools: ["Git", "GitHub", "VS Code", "Linux", "Figma"]
 };
-<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br/> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,wordpress" /><br/> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> </p> ```
+<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br/> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,wordpress" /><br/> <!-- Styling --> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" /><br/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> </p>
+```
 ---
 
 ### 🚀 Featured Projects

@@ -11,14 +11,11 @@
   <code style="color:#00FFCC; font-size: 40px;">FatimaZahra.dev)</code>
 </h1>
 
-<!-- Mission / Intro -->
 <p align="center">
-  <code style="color:#FFD700; font-size: 18px;">
+  <code style="color:#C678DD; font-size: 18px;">
     Software Developer | Web Enthusiast | Lifelong Learner
   </code>
 </p>
-
-
 ---
 
 ### 👩‍💻 About Me

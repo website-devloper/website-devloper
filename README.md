@@ -49,34 +49,152 @@ const techStack = {
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
 
-🏆 **Company Management System**
-A web-based solution to manage employees, departments, and tasks in one place. It improves organization, and enhances overall company productivity.
-🔗 [GitHub Repo](https://github.com/website-devloper/winbestwebsite)  
-🛠 **Tech Stack:**  
-![PHP](https://img.shields.io/badge/php-E34F26?style=for-the-badge&logo=php&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=black) 
+---
+
+## 🏆 Company Management System  
+
+**✨ Features**  
+- Manage employees and departments  
+- Assign and track tasks  
+- Improve workflow and productivity 
+
+🔗 [View Repo](https://github.com/website-devloper/winbestwebsite)  
+
+**⚙️ Tech Stack**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=blue)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red)  
+
+---
+
+## 📊 Finance Tracker  
+
+**✨ Features**  
+- Track daily income & expenses  
+- Generate financial reports  
+- User-friendly dashboard  
+
+
+🔗 [View Repo](https://github.com/yourusername/finance-tracker)  
+
+**⚙️ Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 
 ---
 
-### 📊 Finance Tracker
-A web-based solution to manage employees, departments, and tasks in one place. It improves organization, and enhances overall company productivity.
-[GitHub Repo](https://github.com/yourusername/finance-tracker)  
-🛠 **Tech Stack:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🌐 Web Blog Platform  
+A full-stack blog platform with authentication, CRUD operations, and responsive design.  
+
+🔗 [View Repo](https://github.com/yourusername/web-blog-platform)  
+
+**⚙️ Tech Stack**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**✨ Features**  
+- User authentication  
+- Blog CRUD (Create, Read, Update, Delete)  
+- Mobile-friendly UI  
 
 ---
 
-### 🌐 Web Blog Platform
-Full-stack blog platform with authentication, CRUD operations, and responsive design.  
-🔗 [GitHub Repo](https://github.com/yourusername/web-blog-platform)  
-🛠 **Tech Stack:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛒 Arymaid – E-Commerce Website  
+A full-featured e-commerce platform where customers can browse, add to cart, and securely checkout.  
+Built for seamless shopping with an intuitive interface.  
+
+🔗 [View Repo](https://github.com/yourusername/arymaid-ecommerce)  
+
+**⚙️ Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+**✨ Features**  
+- Product listing & search  
+- Shopping cart & checkout  
+- Secure authentication  
+
+---
+
+## 💰 Expense-Income App  
+A modern finance app to track daily expenses and income with real-time state management.  
+Helps users analyze spending habits and balance budgets.  
+
+🔗 [View Repo](https://github.com/yourusername/expense-income-app)  
+
+**⚙️ Tech Stack**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+
+**✨ Features**  
+- Add & categorize transactions  
+- Track income vs expenses  
+- Real-time updates  
+
+---
+
+## 👔 Rekrute – Job Platform  
+A professional platform connecting job seekers with recruiters.  
+Includes profile creation, job postings, and application tracking.  
+
+🔗 [View Repo](https://github.com/yourusername/rekrute-platform)  
+
+**⚙️ Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+**✨ Features**  
+- Job postings by recruiters  
+- Candidate profile management  
+- Application tracking  
+
+---
+
+## 💼 MyPortfolio  
+A personal portfolio showcasing professional projects, skills, and achievements.  
+Clean design with smooth navigation to highlight developer expertise.  
+
+🔗 [View Repo](https://github.com/yourusername/myportfolio)  
+
+**⚙️ Tech Stack**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+**✨ Features**  
+- Showcase of projects  
+- Responsive design  
+- Contact form  
+
+---
+
+## 📸 Photography Website  
+A stunning portfolio site for photographers to display albums, galleries, and creative works.  
+Perfect for showcasing artistry online.  
+
+🔗 [View Repo](https://github.com/yourusername/photography-website)  
+
+**⚙️ Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+**✨ Features**  
+- Photo albums & gallery  
+- Responsive portfolio design  
+- Easy navigation  
+
+---
+
+<p align="center">
+  🔥 Each project is built with a focus on <b>usability, performance, and scalability</b>.  
+  <br>⭐ Don’t forget to <b>star the repos</b> if you like them!
+</p>
 
 ---
 

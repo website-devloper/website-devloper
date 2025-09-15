@@ -86,8 +86,12 @@ const techStack = {
 ---
 
 ## 🌐 Web Blog Platform  
-A full-stack blog platform with authentication, CRUD operations, and responsive design.  
 
+**✨ Features**  
+- User authentication  
+- Blog CRUD (Create, Read, Update, Delete)  
+- Mobile-friendly UI
+- 
 🔗 [View Repo](https://github.com/yourusername/web-blog-platform)  
 
 **⚙️ Tech Stack**  
@@ -95,17 +99,17 @@ A full-stack blog platform with authentication, CRUD operations, and responsive 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-**✨ Features**  
-- User authentication  
-- Blog CRUD (Create, Read, Update, Delete)  
-- Mobile-friendly UI  
+
 
 ---
 
 ## 🛒 Arymaid – E-Commerce Website  
-A full-featured e-commerce platform where customers can browse, add to cart, and securely checkout.  
-Built for seamless shopping with an intuitive interface.  
 
+**✨ Features**  
+- Product listing & search  
+- Shopping cart & checkout  
+- Secure authentication
+- 
 🔗 [View Repo](https://github.com/yourusername/arymaid-ecommerce)  
 
 **⚙️ Tech Stack**  
@@ -114,16 +118,16 @@ Built for seamless shopping with an intuitive interface.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-**✨ Features**  
-- Product listing & search  
-- Shopping cart & checkout  
-- Secure authentication  
+
 
 ---
 
 ## 💰 Expense-Income App  
-A modern finance app to track daily expenses and income with real-time state management.  
-Helps users analyze spending habits and balance budgets.  
+
+**✨ Features**  
+- Add & categorize transactions  
+- Track income vs expenses  
+- Real-time updates  
 
 🔗 [View Repo](https://github.com/yourusername/expense-income-app)  
 
@@ -131,16 +135,17 @@ Helps users analyze spending habits and balance budgets.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 
-**✨ Features**  
-- Add & categorize transactions  
-- Track income vs expenses  
-- Real-time updates  
+
 
 ---
 
 ## 👔 Rekrute – Job Platform  
-A professional platform connecting job seekers with recruiters.  
-Includes profile creation, job postings, and application tracking.  
+
+**✨ Features**  
+- Job postings by recruiters  
+- Candidate profile management  
+- Application tracking  
+
 
 🔗 [View Repo](https://github.com/yourusername/rekrute-platform)  
 
@@ -149,16 +154,15 @@ Includes profile creation, job postings, and application tracking.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-**✨ Features**  
-- Job postings by recruiters  
-- Candidate profile management  
-- Application tracking  
 
 ---
 
 ## 💼 MyPortfolio  
-A personal portfolio showcasing professional projects, skills, and achievements.  
-Clean design with smooth navigation to highlight developer expertise.  
+
+**✨ Features**  
+- Showcase of projects  
+- Responsive design  
+- Contact form  
 
 🔗 [View Repo](https://github.com/yourusername/myportfolio)  
 
@@ -166,16 +170,16 @@ Clean design with smooth navigation to highlight developer expertise.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**✨ Features**  
-- Showcase of projects  
-- Responsive design  
-- Contact form  
 
 ---
 
 ## 📸 Photography Website  
-A stunning portfolio site for photographers to display albums, galleries, and creative works.  
-Perfect for showcasing artistry online.  
+
+**✨ Features**  
+- Photo albums & gallery  
+- Responsive portfolio design  
+- Easy navigation  
+
 
 🔗 [View Repo](https://github.com/yourusername/photography-website)  
 
@@ -184,26 +188,11 @@ Perfect for showcasing artistry online.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-**✨ Features**  
-- Photo albums & gallery  
-- Responsive portfolio design  
-- Easy navigation  
-
 ---
 
 <p align="center">
   🔥 Each project is built with a focus on <b>usability, performance, and scalability</b>.  
   <br>⭐ Don’t forget to <b>star the repos</b> if you like them!
-</p>
-
----
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
 </p>
 
 ---
@@ -215,6 +204,3 @@ Perfect for showcasing artistry online.
   <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
----
-
-⭐️ From [MenhCoding](https://github.com/yourusername)

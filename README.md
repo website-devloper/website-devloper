@@ -49,20 +49,20 @@ const techStack = {
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
 
-🏆 **Portfolio Website**
-A sleek personal portfolio to showcase my projects, skills, and experience.  
-🔗 [Live Demo](https://yourusername.github.io/portfolio) | 🔗 [GitHub Repo](https://github.com/yourusername/portfolio)  
+🏆 **Company Management System**
+A web-based solution to manage employees, departments, and tasks in one place. It improves organization, and enhances overall company productivity.
+🔗 [GitHub Repo](https://github.com/website-devloper/winbestwebsite)  
 🛠 **Tech Stack:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/php-E34F26?style=for-the-badge&logo=php&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=black) 
+
 
 ---
 
 ### 📊 Finance Tracker
-Web application to track personal finances, visualize expenses, and plan budgets effectively.  
-🔗 [GitHub Repo](https://github.com/yourusername/finance-tracker)  
+A web-based solution to manage employees, departments, and tasks in one place. It improves organization, and enhances overall company productivity.
+[GitHub Repo](https://github.com/yourusername/finance-tracker)  
 🛠 **Tech Stack:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 

@@ -49,43 +49,7 @@ const techStack = {
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
 
----
-
-## 🏆 Company Management System  
-
-**✨ Features**  
-- Manage employees and departments  
-- Assign and track tasks  
-- Improve workflow and productivity 
-
-🔗 [View Repo](https://github.com/website-devloper/winbestwebsite)  
-
-**⚙️ Tech Stack**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=blue)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red)  
-
----
-
-## 📊 Finance Tracker  
-
-**✨ Features**  
-- Track daily income & expenses  
-- Generate financial reports  
-- User-friendly dashboard  
-
-
-🔗 [View Repo](https://github.com/yourusername/finance-tracker)  
-
-**⚙️ Tech Stack**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-
----
-
-# 💻 Featured Projects  
+# Featured Projects  
 
 ## 🏆 Company Management System  
 ✨ **Features**  
@@ -96,9 +60,7 @@ const techStack = {
 🔗 [View Repo](#)  
 
 ## ⚙️ Tech Stack  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
 
 ---
 
@@ -111,9 +73,7 @@ const techStack = {
 🔗 [View Repo](#)  
 
 ## ⚙️ Tech Stack  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
 
 ---
 
@@ -126,14 +86,76 @@ const techStack = {
 🔗 [View Repo](#)  
 
 ## ⚙️ Tech Stack  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
-[![Express]()]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 
+---
 
-<p align="center">
-  🔥 Each project is built with a focus on <b>usability, performance, and scalability</b>.  
-  <br>⭐ Don’t forget to <b>star the repos</b> if you like them!
-</p>
+## 🛒 Arymaid – E-Commerce Website  
+✨ **Features**  
+- Product listing & search  
+- Shopping cart & checkout  
+- Secure authentication  
+
+🔗 [View Repo](#)  
+
+## ⚙️ Tech Stack  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+
+---
+
+## 💰 Expense-Income App  
+✨ **Features**  
+- Add & categorize transactions  
+- Track income vs expenses  
+- Real-time updates  
+
+🔗 [View Repo](#)  
+
+## ⚙️ Tech Stack  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)  
+
+---
+
+## 👔 Rekrute – Job Platform  
+✨ **Features**  
+- Job postings by recruiters  
+- Candidate profile management  
+- Application tracking  
+
+🔗 [View Repo](#)  
+
+## ⚙️ Tech Stack  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+
+---
+
+## 💼 MyPortfolio  
+✨ **Features**  
+- Showcase of projects  
+- Responsive design  
+- Contact form  
+
+🔗 [View Repo](#)  
+
+## ⚙️ Tech Stack  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+
+---
+
+## 📸 Photography Website  
+✨ **Features**  
+- Photo albums & gallery  
+- Responsive portfolio design  
+- Easy navigation  
+
+🔗 [View Repo](#)  
+
+## ⚙️ Tech Stack  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+
+---
+
+🔥 *Each project is built with a focus on functionality, performance, and user-friendly design.*
 
 ---
 

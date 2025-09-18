@@ -15,6 +15,13 @@
   <code style="color:#C678DD; font-size: 18px;">Software Developer | Web Enthusiast | Lifelong Learner</code>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-zahra-sabbar-906b40195/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/dev_fatimazahra"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:fatimazahra20033@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+---
+
 ## 💻  <code style="color:#00FF00; font-size: 40px;">About Me</code>
 
 ```javascript
@@ -154,10 +161,4 @@ const techStack = {
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
 

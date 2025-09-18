@@ -173,7 +173,7 @@ const techStack = {
   <img src="https://github-readme-stats.vercel.app/api?username=website-devloper&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=website-devloper&theme=radical" alt="GitHub Streak" width="49%">
+  <img src="https://streak-stats.demolab.com/?username=website-devloper&theme=radical" alt="GitHub Streak" width="49%">
 </p>
 
 <p align="center">

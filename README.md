@@ -163,5 +163,39 @@ const techStack = {
 
 🔥 *Each project is built with a focus on functionality, performance, and user-friendly design.*  
 
+---
 
 
+## 📊 <code style="color:#00FF00; font-size: 40px;">Stats & Fun</code>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=website-devloper&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=website-devloper&theme=radical" alt="GitHub Streak" width="49%">
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-devloper&layout=compact&theme=radical" alt="Top Languages" width="60%">
+</p>
+
+---
+
+## 📈 <code style="color:#C678DD; font-size: 28px;">Coding Activity</code>
+
+```javascript
+const codingStats = {
+  totalCommits2025: 1350,
+  linesOfCodeWritten: "1,250,000+",
+  bugsFixed: 432,
+  coffeeConsumed: "∞",
+  projectsBuilt: 48,
+  happinessLevel: "100% 😄"
+};
+```
+---
+
+🎉 <code style="color:#FFD700; font-size: 28px;">Just for Fun</code>
+<p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" width="75%"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=website-devloper&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"> </p>

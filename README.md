@@ -57,7 +57,7 @@ const techStack = {
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
 
-## 🏆 Company Management System  
+## 🏆 <code style="color:#C678DD; font-size: 28px;">Company Management System</code>  
 ✨ **Features**  
 - Manage employees and departments  
 - Assign and track tasks  
@@ -68,7 +68,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
 
-## 📊 Finance Tracker  
+---
+
+## 📊 <code style="color:#C678DD; font-size: 28px;">Finance Tracker</code>  
 ✨ **Features**  
 - Track daily income & expenses  
 - Generate financial reports  
@@ -79,8 +81,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
 
+---
 
-## 🌐 Web Blog Platform  
+## 🌐 <code style="color:#C678DD; font-size: 28px;">Web Blog Platform</code>  
 ✨ **Features**  
 - User authentication  
 - Blog CRUD (Create, Read, Update, Delete)  
@@ -91,9 +94,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 
+---
 
-
-## 🛒 Arymaid – E-Commerce Website  
+## 🛒 <code style="color:#C678DD; font-size: 28px;">Arymaid – E-Commerce Website</code>  
 ✨ **Features**  
 - Product listing & search  
 - Shopping cart & checkout  
@@ -104,9 +107,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
 
+---
 
-
-## 💰 Expense-Income App  
+## 💰 <code style="color:#C678DD; font-size: 28px;">Expense-Income App</code>  
 ✨ **Features**  
 - Add & categorize transactions  
 - Track income vs expenses  
@@ -117,9 +120,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)  
 
+---
 
-
-## 👔 Rekrute – Job Platform  
+## 👔 <code style="color:#C678DD; font-size: 28px;">Rekrute – Job Platform</code>  
 ✨ **Features**  
 - Job postings by recruiters  
 - Candidate profile management  
@@ -130,9 +133,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
 
+---
 
-
-## 💼 MyPortfolio  
+## 💼 <code style="color:#C678DD; font-size: 28px;">MyPortfolio</code>  
 ✨ **Features**  
 - Showcase of projects  
 - Responsive design  
@@ -143,9 +146,9 @@ const techStack = {
 ## ⚙️ Tech Stack  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
+---
 
-
-## 📸 Photography Website  
+## 📸 <code style="color:#C678DD; font-size: 28px;">Photography Website</code>  
 ✨ **Features**  
 - Photo albums & gallery  
 - Responsive portfolio design  
@@ -158,8 +161,7 @@ const techStack = {
 
 ---
 
-🔥 *Each project is built with a focus on functionality, performance, and user-friendly design.*
+🔥 *Each project is built with a focus on functionality, performance, and user-friendly design.*  
 
----
 
 

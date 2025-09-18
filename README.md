@@ -49,8 +49,6 @@ const techStack = {
 
 ## 💻 <code style="color:#00FF00; font-size: 40px;">Featured Projects</code>
 
-# Featured Projects  
-
 ## 🏆 Company Management System  
 ✨ **Features**  
 - Manage employees and departments  

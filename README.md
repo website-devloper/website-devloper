@@ -170,15 +170,10 @@ const techStack = {
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=website-devloper&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=website-devloper&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?username=website-devloper&theme=radical" alt="GitHub Streak" width="49%">
-</p>
-
-<p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-devloper&layout=compact&theme=radical" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-devloper&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
 ---

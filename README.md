@@ -173,7 +173,7 @@ const techStack = {
   <img src="https://github-readme-stats.vercel.app/api?username=website-devloper&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-devloper&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-devloper&layout=compact&theme=radical" alt="Top Languages" width="40%">
 </p>
 
 ---
